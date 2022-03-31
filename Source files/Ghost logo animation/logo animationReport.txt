@@ -1,0 +1,201 @@
+Report created: 
+	4/23/2021	6:36:49 PM
+
+Project name: logo animation.aep
+
+Source files collected to: 
+	D:\Portfolio\Ghost logo animation
+
+Source files collected: All
+
+Collected comps:  
+	Elements - Fire 070 Flamethrower Right MIX noCT noRSZ
+	Elements - Fire 102 Right noCT noRSZ
+	Explosion 001 asset*
+	Explosion 002 asset*
+	Fire 007 asset*
+	Comp 1
+	Fire 012 asset*
+	Fire 017 asset*
+	Fire 018 asset*
+	Fire 019 asset*
+	Fire 032 asset*
+	logo
+	Fire 043 asset*
+	Fire 044 asset*
+	Fire 045 asset*
+	Fire 046 asset*
+	Fire 049 asset*
+	Fire 102 asset*
+	Fire 103 asset*
+	Fire 111 asset*
+	Transition - V02 Explosion 001 Fire Radial Out
+	Transition - V02 Explosion 002 Fire Radial Out noCT
+	Transition - V02 Fire 043 Right noCT
+	Transition - V02 Fire 044 Radial Out noCT
+	Transition - V02 Fire 045 Right noCT
+	Transition - V02 Fire 046 Radial Out
+	Transition - V02 Fire 047 Up noCT
+	Transition - V02 Fire 049 Radial Out noCT
+	Transition - V02 Fire 096 Radial noCT
+	Transition - V02 Fire 097 Up noCT
+	Transition - V02 Fire 098 Down noCT
+	Transition - V02 Fire 099 Up noCT
+	Transition - V02 Fire 101 Right MIX noCT
+	Transition - V02 Fire 111 Diagonal 01
+	Transition - V02 Fire 111 Diagonal 02
+	Elements - Energy 059 Hit Explosion Radial noCT noRSZ
+	Elements - Fire 033 Hit Explosion Radial noCT noRSZ
+	Elements - Flash 001 Hit Explosion Radial noCT noRSZ
+	Elements - Flash 006 Hit Explosion Up noCT noRSZ
+	Elements - Smoke 001 Hit Explositon Up noCT noRSZ
+	Elements - Sparks 027 Hit Explosion Radial noCT noRSZ
+	Elements - Electricity 001 Hit Explosion Up noCT noRSZ
+	Elements - Electricity 003 Ray Down noCT noRSZ
+	Elements - Electricity 004 Ray Up noCT noRSZ
+	Elements - Electricity 005 Shot Ray Up noCT noRSZ
+	Elements - Electricity 006 Hit Ray Up noCT noRSZ
+	Elements - Electricity 007 Ray Right noCT noRSZ
+	Elements - Electricity 009 Loop Up noCT noRSZ
+	Elements - Electricity 010 Explosion Radial noCT noRSZ
+	Elements - Electricity 011 Ray Up noCT noRSZ
+	Elements - Electricity 013 Up Loop noCT noRSZ
+	Elements - Electricity 014 Charge Radial Loop noCT noRSZ
+	Elements - Electricity 015 Charge Radial Loop noCT noRSZ
+	Elements - Electricity 016 Charge Right noCT noRSZ
+	Elements - Electricity 017 Ray Right noCT noRSZ
+	Elements - Electricity 018 Ray Up Loop noCT noRSZ
+	Elements - Electricity 019 Ray Hit Up noCT noRSZ
+	Elements - Electricity 020 Ray Shot Up noCT noRSZ
+	Elements - Electricity 021 Explosion Radial noCT noRSZ
+	Elements - Electricity 022 Hit Explosion Right noCT noRSZ
+	Elements - Electricity 025 Hit Explosion Radial noCT noRSZ
+	Elements - Electricity 026 Ray Up noCT noRSZ
+	Elements - Electricity 027 Hit Explosion Radial noCT noRSZ
+	Elements - Electricity 032 Hit Explosion Radial noCT noRSZ
+	Elements - Electricity 033 Ray Right noCT noRSZ
+	Elements - Electricity 034 Charge Radial noCT noRSZ
+	Elements - Electricity 036 Explosion Right MIX noCT noRSZ
+	Elements - Electricity 037 Shot Right MIX noCT noRSZ
+	Elements - Electricity 038 Charge Radial MIX noCT noRSZ
+	Elements - Electricity 040 Shot Hit Horizontal noCT noRSZ
+	Elements - Electricity 042 Charge loop noCT noRSZ
+	Elements - Electricity 043 Charge Horizontal noCT noRSZ
+	Elements - Electricity 044 Charge Radial noCT noRSZ
+	Elements - Electricity 045 Charge Vertical noCT noRSZ
+	Elements - Electricity 046 Charge Vertical noCT noRSZ
+	Elements - Electricity 047 Charge Horizontal noCT noRSZ
+	Elements - Electricity 048 Charge Horizontal noCT noRSZ
+	Elements - Electricity 049 Charge Radial noCT noRSZ
+	Elements - Electricity 050 Charge Radial noCT noRSZ
+	Elements - Electricity 051 Charge Radial noCT noRSZ
+	Elements - Electricity 052 Charge Radial noCT noRSZ
+	Electricity 001 asset*
+	Electricity 003 asset*
+	Electricity 004 asset*
+	Electricity 005 asset*
+	Electricity 006 asset*
+	Electricity 007 asset*
+	Electricity 009 asset*
+	Electricity 010 asset*
+	Electricity 011 asset*
+	Electricity 013 asset*
+	Electricity 014 asset*
+	Electricity 015 asset*
+	Electricity 016 asset*
+	Electricity 017 asset*
+	Electricity 018 asset*
+	Electricity 019 asset*
+	Electricity 020 asset*
+	Electricity 021 asset*
+	Electricity 022 asset*
+	Electricity 025 asset*
+	Electricity 026 asset*
+	Electricity 042 asset*
+	Electricity 043 asset*
+	Electricity 046 asset*
+	Electricity 047 asset*
+	Electricity 048 asset*
+	Electricity 050 asset*
+	Energy 059 asset*
+	Fire 033 asset*
+	Flash 004 asset*
+	Smoke 001 asset*
+	Sparks 027 asset*
+	Sparks 070 asset*
+	Transition - V02 Fire 097 Up noCT 01
+	Fire 017 asset* 01
+	Fire 032 asset* 01
+	Fire 012 asset* 01
+	Fire 045 asset* 01
+	Elements - Electricity 010 Explosion Radial noCT noRSZ 01
+	Elements - Electricity 010 Explosion Radial noCT noRSZ 02
+	Logo animation
+	Elements - Electricity 014 Charge Radial Loop noCT noRSZ 01
+	
+Number of collected files:  72
+
+Size of collected files:  162 MB
+
+Collected source files: 
+	C:\Users\Momin Khatter\Desktop\Fiver gig prepairation\Asests\pexels-daniel-absi-952670.jpg
+	C:\Users\Momin Khatter\Desktop\Fiver gig prepairation\Free-4K-Volumetric-Light-Pack\Volumetric Freebie\01 Multi-Beam Pass.mp4
+	C:\Users\Momin Khatter\Desktop\Fiver gig prepairation\Free-4K-Volumetric-Light-Pack\Volumetric Freebie\07 Window Beam.mp4
+	C:\Users\Momin Khatter\Desktop\Fiver gig prepairation\PB-Anamorphic-Lens-Flares\PB - Anamorphic Lens Flares\12.mp4
+	C:\Users\Momin Khatter\Desktop\Fiver gig prepairation\Source file\Logo design 2.ai
+	Sequence "Electricity 25 Impact Radial[0001-0011].png" at F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\(Footage)\Sources\Electricity 25 Impact Radial with 11 files and 0 auxiliary files
+	Sequence "Electricity 26 Up [00001-00035].png" at F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\(Footage)\Sources\Electricity 26 Up with 35 files and 0 auxiliary files
+	Sequence "Energy Impact 59 Up {00001-00010}.png" at F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\(Footage)\Sources\Energy 59 Impact Up with 10 files and 0 auxiliary files
+	F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\6. Sound FX\Explosion\SFX - Explosion 22 Swoosh.mp3
+	F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\6. Sound FX\Explosion\SFX - Explosion 23 Swoosh.mp3
+	F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\6. Sound FX\Explosion\SFX - Explosion 24 Swoosh.mp3
+	F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\6. Sound FX\Fire\SFX - Fire 01 Swoosh.mp3
+	F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\6. Sound FX\Fire\SFX - Fire 03 flamethrower.mp3
+	F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\6. Sound FX\Fire\SFX - Fire 04 Tornado Torch Fireball.mp3
+	F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\6. Sound FX\Fire\SFX - Fire 08 Swoosh.mp3
+	F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\6. Sound FX\Fire\SFX - Fire 09 Swoosh.mp3
+	F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\6. Sound FX\Fire\SFX - Fire 10 Swoosh Fireball.mp3
+	F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\6. Sound FX\Fire\SFX - Fire 11 Swoosh Fireball Torch.mp3
+	F:\After Effects Elements\Videohive RTFX Generator [1000 FX elements] V2 19563523 (With 17 10 19)\videohive-1UyI4KpL-rtfx-generator-440-fx-pack\AE extension\RTFX pack\6. Sound FX\Swoosh\SFX - Swoosh 19.mp3
+	
+Rendering plug-ins:
+	CINEMA 4D
+	Classic 3D
+	
+Effects used:  17
+
+Effect:  Angle Control
+	
+Effect:  CC Particle Systems II
+	
+Effect:  CC Radial Blur
+	
+Effect:  Color Balance (HLS)
+	
+Effect:  Color Control
+	
+Effect:  Curves
+	
+Effect:  Directional Blur
+	
+Effect:  Fast Blur (Legacy)
+	
+Effect:  Fill
+	
+Effect:  Glow
+	
+Effect:  Hue/Saturation
+	
+Effect:  Mesh Warp
+	
+Effect:  Motion Tile
+	
+Effect:  Puppet
+	
+Effect:  Simple Choker
+	
+Effect:  Slider Control
+	
+Effect:  Tint
+	
+
